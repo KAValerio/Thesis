@@ -1,0 +1,236 @@
+@article{peterson1955,
+  title={The synthesis of seismograms from well log data},
+  author={Peterson, Raymond Alfred and Fillippone, Walter Ross and Coker, Frank B},
+  journal={Geophysics},
+  volume={20},
+  number={3},
+  pages={516--538},
+  year={1955},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@article{anstey1960,
+  title={Attacking the problems of the synthetic seismogram},
+  author={Anstey, NA},
+  journal={Geophysical Prospecting},
+  volume={8},
+  number={2},
+  pages={242--259},
+  year={1960},
+  publisher={Wiley Online Library}
+}
+
+@article{wuensche1960,
+  title={Seismogram synthesis including multiples and transmission coefficients},
+  author={Wuenschel, Paul Clarence},
+  journal={Geophysics},
+  volume={25},
+  number={1},
+  pages={106--129},
+  year={1960},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@article{robinson1977,
+  title={The spectral function of a layered system and the determination of the waveforms at depth},
+  author={Robinson, EA and Treitel, S},
+  journal={Geophysical prospecting},
+  volume={25},
+  number={3},
+  pages={434--459},
+  year={1977}
+}
+
+@article{ganley1981,
+  title={A method for calculating synthetic seismograms which include the effects of absorption and dispersion},
+  author={Ganley, DC},
+  journal={Geophysics},
+  volume={46},
+  number={8},
+  pages={1100--1107},
+  year={1981},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@incollection{lewis1989,
+  title={Directional trace synthetic seismogram for a deviated well},
+  author={Lewis, Charles and Cheng, Shyh-Yueh},
+  booktitle={SEG Technical Program Expanded Abstracts 1989},
+  pages={767--768},
+  year={1989},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@article{kelly1976,
+  title={Synthetic seismograms: a finite-difference approach},
+  author={Kelly, KR and Ward, RW and Treitel, Sven and Alford, RM},
+  journal={Geophysics},
+  volume={41},
+  number={1},
+  pages={2--27},
+  year={1976},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@article{levander1988,
+  title={Fourth-order finite-difference P-SV seismograms},
+  author={Levander, Alan R},
+  journal={Geophysics},
+  volume={53},
+  number={11},
+  pages={1425--1436},
+  year={1988},
+  publisher={Society of Exploration Geophysicists}
+}
+
+@article{Hanyga1995,
+	journal = {Geophysical Prospecting},
+	pages = {51--75},
+	volume = {43},
+	publisher = {Blackwell Publishing Ltd},
+	number = {1},
+	year = {1995},
+	title = {Synthetic seismograms from generalized ray tracing},
+	author = {Hanyga, Andrzej and Helle, Hans B.},
+}
+
+@techreport{Thurston1990,
+    author    = {Thurston, J.B. and Howell, C.E. and Lawton, D.C. and Stewart, R.R.},
+    title     = {A Mode-Converted (P-SV) Synthetic Seismogram},
+    institution = {University of Calgary},
+    type     = {CREWES Research Report},
+    number   = {22},
+    address  = {2500 University Dr NW, Calgary, Alberta, Canada, T2N 1N4},
+    year      = {1990},
+    note     = {pp.372--386},
+}
+
+@article{shuey1985, 
+	title={A simplification of the Zoeppritz equations},
+	volume={50},
+	number={4},
+	journal={Geophysics},
+	author={Shuey, R. T.},
+	year={1985},
+	pages={609-614},
+	publisher={Society of Exploration Geophysicists}
+}
+
+@article{mousa2011,
+  title={Processing of seismic reflection data using MATLAB™},
+  author={Mousa, Wail A and Al-Shuhail, Abdullatif A},
+  journal={Synthesis Lectures on Signal Processing},
+  volume={5},
+  number={1},
+  pages={1--97},
+  year={2011},
+  publisher={Morgan \& Claypool Publishers}
+}
+@article{alterman1970,
+  title={Seismic waves in a quarter and three-quarter plane},
+  author={Alterman, ZS and Loewenthal, D},
+  journal={Geophysical Journal International},
+  volume={20},
+  number={2},
+  pages={101--126},
+  year={1970},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@misc{Duvernay2016,
+  title={Duvernay Reserves and Resources Report},
+  author={AER},
+  year={2016},
+  publisher={December}
+}
+
+@article{german2018,
+  title={Reservoir Characterization of a Duvernay-Fox Creek Shale Reservoir using Seismic, Microseismic, and Well Log Data},
+  author={Germán Rodríguez-Pradilla},
+  journal={CSEG Recorder},
+  volume={43},
+  number={4},
+  pages={30--34},
+  year={2018},
+}
+@article{eaton2018,
+  title={Induced Seismicity Characterization during Hydraulic-Fracture Monitoring with a Shallow-Wellbore Geophone Array and Broadband Sensors},
+  author={Eaton, David W and Igonin, Nadine and Poulin, Andrew and Weir, Ron and Zhang, Hongliang and Pellegrino, Scott and Rodriguez, German},
+  journal={Seismological Research Letters},
+  volume={89},
+  number={5},
+  pages={1641--1651},
+  year={2018},
+  publisher={Seismological Society of America}
+}
+
+@article{campbell1968,
+  title={Mineralogic and chemical composition of Ireton and Duvernay formations, central Alberta},
+  author={Campbell, FA and Oliver, TA},
+  journal={Bulletin of Canadian Petroleum Geology},
+  volume={16},
+  number={1},
+  pages={40--63},
+  year={1968},
+  publisher={Canadian Society of Petroleum Geologists}
+}
+
+@techreport{peck1985,
+  title={Review of methods for generating synthetic seismograms},
+  author={Peck, Lindamae},
+  year={1985},
+  institution={COLD REGIONS RESEARCH AND ENGINEERING LAB HANOVER NH}
+}
+@article{barkved2004,
+  title={The many facets of multicomponent seismic data},
+  author={Barkved, Olav and Bartman, Bob and Gaiser, J and Van Dok, R and Johns, T and Kristiansen, P and Probert, T and Thompson, M},
+  journal={Oilfield Review},
+  volume={16},
+  number={2},
+  pages={42--56},
+  year={2004}
+}
+
+@article{dankbaar1985,
+  title={Separation of P-and S-waves},
+  author={Dankbaar, JWM},
+  journal={Geophysical prospecting},
+  volume={33},
+  number={7},
+  pages={970--986},
+  year={1985}
+}
+@article{boyd2006,
+  title={An efficient Matlab script to calculate heterogeneous anisotropically elastic wave propagation in three dimensions},
+  author={Boyd, Oliver S},
+  journal={Computers \& geosciences},
+  volume={32},
+  number={2},
+  pages={259--264},
+  year={2006},
+  publisher={Elsevier}
+}
+@article{rodriguez2018f,
+  title={Finite-difference modelling of microseismicity associated with a hydraulic-fracturing stimulation in a coalbed methane reservoir},
+  author={Rodr{\'\i}guez-Pradilla, Germ{\'a}n and Eaton, David W},
+  journal={First Break},
+  volume={36},
+  number={4},
+  pages={41--48},
+  year={2018}
+}
+@article{zoeppritz1919,
+  title={Joachim Ritter \& Johannes Schweitzer},
+  author={Zoeppritz, Karl},
+  journal={Part C. Biography of Angenheister and of Geiger, Wiechert’s Bibliography, and Biographical Notes},
+  pages={34},
+  year={1919}
+}
+@incollection{lawton1992,
+  title={P-SV and PP synthetic stacks},
+  author={Lawton, Don C and Howell, CE},
+  booktitle={SEG Technical Program Expanded Abstracts 1992},
+  pages={1344--1347},
+  year={1992},
+  publisher={Society of Exploration Geophysicists}
+}

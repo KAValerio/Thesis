@@ -1,0 +1,141 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{AER}{2016}{Duvernay2016}
+AER  \harvardyearleft 2016\harvardyearright .
+\newblock Duvernay reserves and resources report.
+
+\harvarditem{Alterman \harvardand\ Loewenthal}{1970}{alterman1970}
+Alterman, Z. \harvardand\ Loewenthal, D.  \harvardyearleft
+  1970\harvardyearright .
+\newblock Seismic waves in a quarter and three-quarter plane, {\em Geophysical
+  Journal International} {\bf 20}(2):~101--126.
+
+\harvarditem{Anstey}{1960}{anstey1960}
+Anstey, N.  \harvardyearleft 1960\harvardyearright .
+\newblock Attacking the problems of the synthetic seismogram, {\em Geophysical
+  Prospecting} {\bf 8}(2):~242--259.
+
+\harvarditem[Barkved et~al.]{Barkved, Bartman, Gaiser, Van~Dok, Johns,
+  Kristiansen, Probert \harvardand\ Thompson}{2004}{barkved2004}
+Barkved, O., Bartman, B., Gaiser, J., Van~Dok, R., Johns, T., Kristiansen, P.,
+  Probert, T. \harvardand\ Thompson, M.  \harvardyearleft 2004\harvardyearright
+  .
+\newblock The many facets of multicomponent seismic data, {\em Oilfield Review}
+  {\bf 16}(2):~42--56.
+
+\harvarditem{Boyd}{2006}{boyd2006}
+Boyd, O.~S.  \harvardyearleft 2006\harvardyearright .
+\newblock An efficient matlab script to calculate heterogeneous anisotropically
+  elastic wave propagation in three dimensions, {\em Computers \& geosciences}
+  {\bf 32}(2):~259--264.
+
+\harvarditem{Campbell \harvardand\ Oliver}{1968}{campbell1968}
+Campbell, F. \harvardand\ Oliver, T.  \harvardyearleft 1968\harvardyearright .
+\newblock Mineralogic and chemical composition of ireton and duvernay
+  formations, central alberta, {\em Bulletin of Canadian Petroleum Geology}
+  {\bf 16}(1):~40--63.
+
+\harvarditem{Dankbaar}{1985}{dankbaar1985}
+Dankbaar, J.  \harvardyearleft 1985\harvardyearright .
+\newblock Separation of p-and s-waves, {\em Geophysical prospecting} {\bf
+  33}(7):~970--986.
+
+\harvarditem[Eaton et~al.]{Eaton, Igonin, Poulin, Weir, Zhang, Pellegrino
+  \harvardand\ Rodriguez}{2018}{eaton2018}
+Eaton, D.~W., Igonin, N., Poulin, A., Weir, R., Zhang, H., Pellegrino, S.
+  \harvardand\ Rodriguez, G.  \harvardyearleft 2018\harvardyearright .
+\newblock Induced seismicity characterization during hydraulic-fracture
+  monitoring with a shallow-wellbore geophone array and broadband sensors, {\em
+  Seismological Research Letters} {\bf 89}(5):~1641--1651.
+
+\harvarditem{Ganley}{1981}{ganley1981}
+Ganley, D.  \harvardyearleft 1981\harvardyearright .
+\newblock A method for calculating synthetic seismograms which include the
+  effects of absorption and dispersion, {\em Geophysics} {\bf
+  46}(8):~1100--1107.
+
+\harvarditem{Hanyga \harvardand\ Helle}{1995}{Hanyga1995}
+Hanyga, A. \harvardand\ Helle, H.~B.  \harvardyearleft 1995\harvardyearright .
+\newblock Synthetic seismograms from generalized ray tracing, {\em Geophysical
+  Prospecting} {\bf 43}(1):~51--75.
+
+\harvarditem[Kelly et~al.]{Kelly, Ward, Treitel \harvardand\
+  Alford}{1976}{kelly1976}
+Kelly, K., Ward, R., Treitel, S. \harvardand\ Alford, R.  \harvardyearleft
+  1976\harvardyearright .
+\newblock Synthetic seismograms: a finite-difference approach, {\em Geophysics}
+  {\bf 41}(1):~2--27.
+
+\harvarditem{Lawton \harvardand\ Howell}{1992}{lawton1992}
+Lawton, D.~C. \harvardand\ Howell, C.  \harvardyearleft 1992\harvardyearright .
+\newblock P-sv and pp synthetic stacks, {\em SEG Technical Program Expanded
+  Abstracts 1992}, Society of Exploration Geophysicists, pp.~1344--1347.
+
+\harvarditem{Levander}{1988}{levander1988}
+Levander, A.~R.  \harvardyearleft 1988\harvardyearright .
+\newblock Fourth-order finite-difference p-sv seismograms, {\em Geophysics}
+  {\bf 53}(11):~1425--1436.
+
+\harvarditem{Lewis \harvardand\ Cheng}{1989}{lewis1989}
+Lewis, C. \harvardand\ Cheng, S.-Y.  \harvardyearleft 1989\harvardyearright .
+\newblock Directional trace synthetic seismogram for a deviated well, {\em SEG
+  Technical Program Expanded Abstracts 1989}, Society of Exploration
+  Geophysicists, pp.~767--768.
+
+\harvarditem{Mousa \harvardand\ Al-Shuhail}{2011}{mousa2011}
+Mousa, W.~A. \harvardand\ Al-Shuhail, A.~A.  \harvardyearleft
+  2011\harvardyearright .
+\newblock Processing of seismic reflection data using matlab™, {\em Synthesis
+  Lectures on Signal Processing} {\bf 5}(1):~1--97.
+
+\harvarditem{Peck}{1985}{peck1985}
+Peck, L.  \harvardyearleft 1985\harvardyearright .
+\newblock Review of methods for generating synthetic seismograms, {\em
+  Technical report}, COLD REGIONS RESEARCH AND ENGINEERING LAB HANOVER NH.
+
+\harvarditem[Peterson et~al.]{Peterson, Fillippone \harvardand\
+  Coker}{1955}{peterson1955}
+Peterson, R.~A., Fillippone, W.~R. \harvardand\ Coker, F.~B.  \harvardyearleft
+  1955\harvardyearright .
+\newblock The synthesis of seismograms from well log data, {\em Geophysics}
+  {\bf 20}(3):~516--538.
+
+\harvarditem{Robinson \harvardand\ Treitel}{1977}{robinson1977}
+Robinson, E. \harvardand\ Treitel, S.  \harvardyearleft 1977\harvardyearright .
+\newblock The spectral function of a layered system and the determination of
+  the waveforms at depth, {\em Geophysical prospecting} {\bf 25}(3):~434--459.
+
+\harvarditem{Rodríguez-Pradilla}{2018}{german2018}
+Rodríguez-Pradilla, G.  \harvardyearleft 2018\harvardyearright .
+\newblock Reservoir characterization of a duvernay-fox creek shale reservoir
+  using seismic, microseismic, and well log data, {\em CSEG Recorder} {\bf
+  43}(4):~30--34.
+
+\harvarditem{Rodr{\'\i}guez-Pradilla \harvardand\ Eaton}{2018}{rodriguez2018f}
+Rodr{\'\i}guez-Pradilla, G. \harvardand\ Eaton, D.~W.  \harvardyearleft
+  2018\harvardyearright .
+\newblock Finite-difference modelling of microseismicity associated with a
+  hydraulic-fracturing stimulation in a coalbed methane reservoir, {\em First
+  Break} {\bf 36}(4):~41--48.
+
+\harvarditem[Thurston et~al.]{Thurston, Howell, Lawton \harvardand\
+  Stewart}{1990}{Thurston1990}
+Thurston, J., Howell, C., Lawton, D. \harvardand\ Stewart, R.  \harvardyearleft
+  1990\harvardyearright .
+\newblock A mode-converted (p-sv) synthetic seismogram, {\em CREWES Research
+  Report~22}, University of Calgary, 2500 University Dr NW, Calgary, Alberta,
+  Canada, T2N 1N4.
+\newblock pp.372--386.
+
+\harvarditem{Wuenschel}{1960}{wuensche1960}
+Wuenschel, P.~C.  \harvardyearleft 1960\harvardyearright .
+\newblock Seismogram synthesis including multiples and transmission
+  coefficients, {\em Geophysics} {\bf 25}(1):~106--129.
+
+\harvarditem{Zoeppritz}{1919}{zoeppritz1919}
+Zoeppritz, K.  \harvardyearleft 1919\harvardyearright .
+\newblock Joachim ritter \& johannes schweitzer, {\em Part C. Biography of
+  Angenheister and of Geiger, Wiechert’s Bibliography, and Biographical
+  Notes} p.~34.
+
+\end{thebibliography}

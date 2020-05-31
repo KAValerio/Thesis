@@ -1,0 +1,49 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces 3-layer input test model}}{9}{figure.caption.3}% 
+\contentsline {figure}{\numberline {2}{\ignorespaces Finite-difference 3-layer output gather}}{10}{figure.caption.4}% 
+\contentsline {figure}{\numberline {3}{\ignorespaces Finite-difference 3-layer reformatted gather}}{11}{figure.caption.5}% 
+\contentsline {figure}{\numberline {4}{\ignorespaces Finite-difference 3-layer gain correction}}{12}{figure.caption.6}% 
+\contentsline {figure}{\numberline {5}{\ignorespaces Finite-difference 3-layer NMO correction}}{13}{figure.caption.7}% 
+\contentsline {figure}{\numberline {6}{\ignorespaces Finite-difference 3-layer synthetic seismogram}}{14}{figure.caption.8}% 
+\contentsline {figure}{\numberline {7}{\ignorespaces Finite-difference 3-layer several synthetic seismograms}}{15}{figure.caption.9}% 
+\contentsline {figure}{\numberline {8}{\ignorespaces Finite-difference 3-layer wave propagation}}{15}{figure.caption.10}% 
+\contentsline {figure}{\numberline {9}{\ignorespaces Finite-difference source and ray-tracing convolution wavelet}}{16}{figure.caption.11}% 
+\contentsline {figure}{\numberline {10}{\ignorespaces Ray-tracing 3-layer ray fan}}{18}{figure.caption.12}% 
+\contentsline {figure}{\numberline {11}{\ignorespaces Ray-tracing 3-layer fixed-offset path}}{19}{figure.caption.13}% 
+\contentsline {figure}{\numberline {12}{\ignorespaces Ray-tracing 3-layer depth-angle plot}}{20}{figure.caption.14}% 
+\contentsline {figure}{\numberline {13}{\ignorespaces Ray-tracing 3-layer reflectivity series}}{20}{figure.caption.15}% 
+\contentsline {figure}{\numberline {14}{\ignorespaces Ray-tracing 3-layer synthetic seismogram}}{21}{figure.caption.16}% 
+\contentsline {figure}{\numberline {15}{\ignorespaces Ray-tracing 3-layer several synthetic seismograms}}{21}{figure.caption.17}% 
+\contentsline {figure}{\numberline {16}{\ignorespaces Ray-tracing 3-layer time-converted well logs}}{22}{figure.caption.18}% 
+\contentsline {figure}{\numberline {17}{\ignorespaces Fox Creek well logs}}{24}{figure.caption.19}% 
+\contentsline {figure}{\numberline {18}{\ignorespaces Fox Creek finite-difference earth model}}{25}{figure.caption.20}% 
+\contentsline {figure}{\numberline {19}{\ignorespaces Fox Creek finite-difference P-S gather}}{25}{figure.caption.21}% 
+\contentsline {figure}{\numberline {20}{\ignorespaces Fox Creek finite-difference P-S synthetic seismogram}}{26}{figure.caption.22}% 
+\contentsline {figure}{\numberline {21}{\ignorespaces Fox Creek ray-tracing layered model}}{26}{figure.caption.23}% 
+\contentsline {figure}{\numberline {22}{\ignorespaces Fox Creek ray-tracing ray-paths}}{28}{figure.caption.24}% 
+\contentsline {figure}{\numberline {23}{\ignorespaces Fox Creek ray-tracing P-S reflectivity series}}{28}{figure.caption.25}% 
+\contentsline {figure}{\numberline {24}{\ignorespaces Fox Creek ray-tracing P-S synthetic seismogram}}{29}{figure.caption.26}% 
+\contentsline {figure}{\numberline {25}{\ignorespaces Fox Creek ray-tracing P-S well logs in time}}{29}{figure.caption.27}% 
+\contentsline {figure}{\numberline {26}{\ignorespaces Fox Creek interpreted seismic section}}{30}{figure.caption.28}% 
+\contentsline {figure}{\numberline {27}{\ignorespaces Fox Creek seismic finite-difference comparison}}{32}{figure.caption.29}% 
+\contentsline {figure}{\numberline {28}{\ignorespaces Fox Creek seismic ray-tracing comparison}}{32}{figure.caption.30}% 
+\contentsline {figure}{\numberline {29}{\ignorespaces Fox Creek seismic ray-tracing comparison (Ricker wavelet)}}{33}{figure.caption.31}% 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Fox Creek MATLAB well logs}}{39}{figure.caption.32}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Fox Creek finite-difference P-S gain correction}}{40}{figure.caption.33}% 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Fox Creek finite-difference P-S NMO correction}}{40}{figure.caption.34}% 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Fox Creek ray-tracing several P-S synthetic seismograms}}{41}{figure.caption.35}% 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Fox Creek ray-tracing P-S depth-angle plot}}{41}{figure.caption.36}% 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Fox Creek ray-tracing several P-S synthetic seismograms}}{42}{figure.caption.37}% 
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Fox Creek finite-difference P-P gather}}{42}{figure.caption.38}% 
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Fox Creek finite-difference P-P gain correction}}{43}{figure.caption.39}% 
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Fox Creek finite-difference P-P NMO correction}}{43}{figure.caption.40}% 
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Fox Creek finite-difference P-P synthetic seismogram}}{44}{figure.caption.41}% 
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Fox Creek ray-tracing several P-P synthetic seismograms}}{44}{figure.caption.42}% 
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Fox Creek ray-tracing P-P ray-paths}}{45}{figure.caption.43}% 
+\contentsline {figure}{\numberline {A.13}{\ignorespaces Fox Creek ray-tracing P-P depth-angle plot}}{45}{figure.caption.44}% 
+\contentsline {figure}{\numberline {A.14}{\ignorespaces Fox Creek ray-tracing P-P reflectivity series}}{46}{figure.caption.45}% 
+\contentsline {figure}{\numberline {A.15}{\ignorespaces Fox Creek ray-tracing P-P synthetic seismogram}}{46}{figure.caption.46}% 
+\contentsline {figure}{\numberline {A.16}{\ignorespaces Fox Creek ray-tracing several P-P synthetic seismograms}}{47}{figure.caption.47}% 
+\contentsline {figure}{\numberline {A.17}{\ignorespaces Fox Creek ray-tracing P-P well logs in time}}{47}{figure.caption.48}% 
+\contentsline {figure}{\numberline {A.18}{\ignorespaces Fox Creek Ricker wavelet}}{48}{figure.caption.49}% 
+\contentsline {figure}{\numberline {A.19}{\ignorespaces Fox Creek ray-tracing P-P synthetic seismogram using a Ricker wavelet}}{49}{figure.caption.50}% 
+\contentsline {figure}{\numberline {A.20}{\ignorespaces Fox Creek ray-tracing several P-P synthetic seismograms using a Ricker wavelet}}{49}{figure.caption.51}% 

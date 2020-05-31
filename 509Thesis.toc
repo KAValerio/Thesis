@@ -1,0 +1,18 @@
+\contentsline {section}{List of Figures}{1}{section*.2}% 
+\contentsline {section}{\numberline {1}Abstract}{3}{section.1}% 
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}% 
+\contentsline {section}{\numberline {3}Method}{6}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Finite-Difference}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Ray-Tracing}{17}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Results}{23}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Fox Creek Case Study}{23}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Comparisons}{30}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Conclusion}{34}{section.5}% 
+\contentsline {section}{\numberline {6}References}{36}{section.6}% 
+\contentsline {section}{\numberline {7}Appendix}{39}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Fox Creek General Figures}{39}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Fox Creek Finite-Difference P-S}{40}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}Fox Creek Ray-Tracing P-S}{41}{subsection.7.3}% 
+\contentsline {subsection}{\numberline {7.4}Fox Creek Finite-Difference P-P}{42}{subsection.7.4}% 
+\contentsline {subsection}{\numberline {7.5}Fox Creek Ray-Tracing P-P}{45}{subsection.7.5}% 
+\contentsline {subsection}{\numberline {7.6}Fox Creek Ray-Tracing P-P (Ricker Wavelet)}{48}{subsection.7.6}% 
