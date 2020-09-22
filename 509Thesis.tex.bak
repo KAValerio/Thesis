@@ -75,7 +75,6 @@
 	These two methods are used to generate P-Sv synthetic seismograms by modelling a 1D well log and simulating a CMP gather at an offset. The results can then be compared to find a reliable and accurate method of correlating reflections in P-S reflection seismic data. This report will examine the synthetic generation of both methods and compare their results against each other. 
 	
 	First, using MATLAB, the finite-difference method will is illustrated, including the benefits and limitations of the wave propagation tool itself. The processing steps for the output gather are then described, illustrating each step in the workflow to generate a synthetic. Next, the same is done for the ray-tracing method. I then describe a case study of the methods and illustrate the synthetics next to a seismic volume in the Fox Creek region and then finish with a comparison between the two methods. 
-\pagebreak
 \section{Method}
 \subsection{Finite-Difference}
 	
@@ -227,7 +226,6 @@
 	Finite-difference modelling is a very useful tool to generate synthetic seismograms. This approach accounts direct waves, primary reflected waves, multiple reflected waves, surface waves, head waves, converted waves, diffracted waves and critically refracted waves, making it a very accurate way of modelling the earth. In some cases, however, not all of these waves are desired in the synthetic generation. The high computational burden must also be considered. 
 
 \FloatBarrier
-
 \subsection{Ray-Tracing}
 	
 	Rays are defined as the normal to the wavefront and they point out in the direction of wave propagation and as such, they are a high-frequency approximation of the wave propagation \citep{Hanyga1995}. Ray-tracing methods are considerably faster than solving the wave equation with finite-differences, however, they contain simplifications that can make them less precise than wave equation solutions.
@@ -311,11 +309,9 @@
 \end{figure}
 
 	Ray-tracing is a much less computationally intensive task when compared to finite-difference modelling. This simplistic approach is easier to understand and implement, however it does not model the earth as well as the previous method. Future work can be completed to account for the effects of multiples, anisotropy and other seismic effects. 
-
 \FloatBarrier
 \section{Results}
 \subsection{Fox Creek Case Study}
-
 	Hydraulic fracturing is an unconventional resource extraction method where fluids are injected into a reservoir at high pressures, fracturing the rock, allowing for oil and gas to be extracted \citep{eaton2018}. This method of extraction is becoming frequently used in regions around Fox Creek, Alberta which overlays the Duvernay formation. This formation is of the upper/late Devonian period and is composed of laminated bituminous shale, calcareous shale and dense argillaceous limestone \citep{campbell1968}. According to the Alberta Energy Regulator, the formation holds an estimated 443 trillion cubic feet of natural gas, and 61.7 billion barrels of oil \citep{Duvernay2016}.
 
 	Because these large reserves have become recently commercially viable, oil and gas firms are setting up extraction facilities in the area. These companies are constantly trying to make their processes more efficient, safe and profitable. Because of this, there have been many academic studies in the area including work done by \cite{eaton2018} and \cite{german2018}. These studies use modern and innovative techniques to characterize the reservoir and the fracturing that occurs. 
@@ -403,6 +399,7 @@
 \FloatBarrier	
 
 \subsection{Comparisons}
+
 	The seismic used to compare with the synthetics is a pre-stack time-migrated (PSTM) East-West capture of a 3D volume in the Fox Creek region, taken from \cite{german2018} (figure \ref{fig:FCseis}). The seismic displays horizon interpretations for the Wabamun, Ireton, Duvernay, Swan Hills and Precambrian basement. The red lines in this figure display a projection of horizontal wells and the green dots indicate seismic and microseismic events in the area. These are not applicable in this study. Only a P-P seismic section was available and because of this, P-P versions of the finite-difference and ray-tracing techniques will be used in the comparison.
 	
 \begin{figure}[!htb]
@@ -445,7 +442,6 @@
 	
 	When comparing the finite-difference and ray-tracing algorithms, the ray-tracing method is superior. The amplitudes better match the seismic data, the well logs and interpretations can be easily converted from depth to time and the synthetic generation computing time is lower by several orders of magnitude. The finite-difference method does model the subsurface much more accurately, however, it accounts for several seismic effects that are typically removed or minimized during processing, such as multiples and the direct wave arrival. The signal should also be deconvolved from the wavelet as best as possible to match the seismic. There is also numerical noise and truncation errors that are involved when trying to represent a continuous operator with discrete terms. 
 
-\pagebreak
 \section{Conclusion}
 
 	A synthetic seismogram is a tool that is used on a very frequent basis by interpretation geophysicists throughout their careers . Having the ability to relate data in the depth domain to data in the time domain, and vice versa, is essential to provide useful information for everyone working on a team. Because the amplitude of P-Sv reflections approaches zero at zero-offset, it is crucial to have a reliable and accurate way to generate a synthetic seismogram for P-S reflection data. 
